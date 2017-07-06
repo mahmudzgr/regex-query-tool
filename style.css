@@ -1,0 +1,12 @@
+mark {
+    background-color: yellow;
+    padding: 0;
+}
+
+.container {
+    padding-top: 100px;
+}
+
+textarea {
+    resize: none;
+}

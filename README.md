@@ -1,0 +1,2 @@
+# RegExp Query Tool
+A RegExp tool that helps you test your queries easily before using it in your application. Tool is written in pure javascript. Usage is so simple. Enter your text in the text area at the top and regular expression in the text field below it then click search. Tool will list your matches and highlight them at text.
